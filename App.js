@@ -27,7 +27,7 @@ const RestaurantCard = () =>{
             <h3>Dominos</h3>
             <h4>Pizza, Pasta</h4>
             <h4>4.1 stars</h4>
-            <h4>35 mins</h4>
+            <h4>35 min</h4>
 
         </div>
     )
